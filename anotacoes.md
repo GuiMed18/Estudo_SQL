@@ -16,12 +16,12 @@ Linha ou tupla, instância individual
 
 ### Tipos de dados
 
-Inteiro (Integer)
-Decimal/Numérico (Decimal/Numeric)
-Caractere/Varchar (Character/Varchar)
-Data/Hora (Date/Time)
-Booleano (Boolean)
-Texto longo (Text)
+ * Inteiro (Integer)
+ * Decimal/Numérico (Decimal/Numeric)
+ * Caractere/Varchar (Character/Varchar)
+ * Data/Hora (Date/Time)
+ * Booleano (Boolean)
+ * Texto longo (Text)
 
  ### Restrições de valor:
 
